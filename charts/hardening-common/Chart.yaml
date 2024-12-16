@@ -1,0 +1,6 @@
+apiVersion: v2
+name: hardening-common
+description: A Helm chart that contains common hardening configurations for Kubernetes
+type: library
+version: 1.0.0
+
